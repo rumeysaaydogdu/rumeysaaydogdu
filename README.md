@@ -1,20 +1,3 @@
-### Hi there 👋
-
-
-**rumeysaaydogdu/rumeysaaydogdu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
 ## Rumeysa
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/ee/c0/97/eec097ad46de5011264b4a71d7c292f5.gif" width="400" height="220" />
@@ -38,5 +21,13 @@ Rumeysa = {
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+
+### Hi there 👋
+
+- 🔭 I’m currently working on C# , javasript (jquery)
+- 🌱 I’m currently learning C# mvc / asp.net and php
+- 😄 Pronouns: smiling, hardworker, compatible
+- ⚡ Fun fact: i looove drawing, painting, cycling, swimming and lintening to music..
 
 
