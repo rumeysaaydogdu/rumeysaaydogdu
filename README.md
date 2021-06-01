@@ -25,7 +25,7 @@ Rumeysa = {
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on C# , javasript (jquery)
+- 🔭 I’m currently working on C# , javasript and jquery
 - 🌱 I’m currently learning C# mvc / asp.net and php
 - 😄 Pronouns: smiling, hardworker, compatible
 - ⚡ Fun fact: i looove drawing, painting, cycling, swimming and lintening to music..
