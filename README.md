@@ -5,7 +5,7 @@
 **About Me**
 ```python
 Rumeysa = {
-  "title": {"Compyter Engineering":"Student"},
+  "title": {"Computer Engineering":"Student"},
   "website": "https://rumeysaaydogdu.home.blog/"
 }
 ```
