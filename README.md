@@ -113,30 +113,17 @@ Here are some ideas to get you started:
   <code><img height="20" src="https://upload.wikimedia.org/wikipedia/de/thumb/8/8c/Microsoft_SQL_Server_Logo.svg/2000px-Microsoft_SQL_Server_Logo.svg.png"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 
+   **Others**
+  <br/>
+  <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"></code>
+  <code><img height="20" src="https://upload.wikimedia.org/wikipedia/de/thumb/8/8c/Microsoft_SQL_Server_Logo.svg/2000px-Microsoft_SQL_Server_Logo.svg.png"></code>
 
 
   ### Datebase
   <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/de/thumb/8/8c/Microsoft_SQL_Server_Logo.svg/2000px-Microsoft_SQL_Server_Logo.svg.png" alt="sqlserver" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
- </p>
-  
- ### OS
-  <p align="left">
-    <img src ="https://i0.wp.com/blog.ncce.org/wp-content/uploads/2017/04/microsoft-windows-logo-vector-download.jpg?fit=512%2C512" width="40" height="40" />
-   <img src ="https://banner2.cleanpng.com/20180920/fol/kisspng-windows-server-2-12-logo-organization-brand-windows-server-5ba39cd715d540.3534964615374491750894.jpg" width="40" height="40" />
-   <img src ="https://www.ateamsystems.com/wp-content/uploads/2016/11/freebsd-logo.png" width="40" height="40" />
-  <img src ="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/OS_Apple.png" width="40" height="40" />
-  </p>
-  
-  ### Others
-   <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" /> 
-  <img src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png" width="60" height="40" /> 
- <img src="https://www.capgemini.com/de-de/wp-content/uploads/sites/5/2019/09/VMware_logo_gry_RGB_300dpi.jpg" width="80" height="40" />
-  <img src="https://www.newvoiceinternational.com/wp-content/uploads/2016/07/Microsoft-Hyper-V-Logo.png" width="80" height="40" />
-  
-</p>
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="postgresql" width="40" height="40"/>
+
 
 <!--
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" />
