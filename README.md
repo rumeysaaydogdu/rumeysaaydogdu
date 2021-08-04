@@ -91,7 +91,8 @@ Here are some ideas to get you started:
 
 ## Languages and Tools
 
-  ***Backend***
+  **Backend**
+  <br/>
   <br/>
   <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons//csharp/csharp-original.svg"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"></code>
