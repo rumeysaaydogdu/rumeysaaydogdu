@@ -22,22 +22,24 @@ Rumeysa = {
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+<h1 align='center'> Hi there 👋, I'm Rumeysa</h1>
 
-### Hi there 👋
+
+<!--  ### Hi there 👋
 
 - 🔭 I’m currently working on C# , javasript and jquery
 - 🌱 I’m currently learning C# mvc / asp.net and php
 - 😄 Pronouns: smiling, hardworker, compatible
 - ⚡ Fun fact: i looove drawing, painting, cycling, swimming and lintening to music..
 
-<h1 align='center'> Hi there 👋, I'm Fatih Deniz</h1>
 
-| **Language** | **About Me** |
+
+<!-- | **Language** | **About Me** |
 | -------------: | :------------- |
-| <img src="https://bewerbung.co/wp-content/uploads/2018/07/bewerbung-englisch.jpg" width='96'>  | Hello, my name is Fatih Deniz. I graduated from Selcuk University with my degree in Computer Technology and Programming in 2006. Until 2012 I worked in various positions in the IT department of many companies in Turkey. I've been living in Germany since the end of 2012. I worked actively as a system and network administrator for a company until May 2020. Since May 2020 I have been training on various platforms so that my knowledge is always up to date. I am currently training in the areas of ASP.NET MVC Core, Java and Unity. |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/1200px-Flag_of_Turkey.svg.png" width='96'>  |Merhaba, benim adım Fatih Deniz. 2006 yılında Selçuk Üniversitesi Bilgisayar Teknolojileri ve Programlama bölümünden mezun oldum. 2012 yılına kadar Türkiye'de birçok firmada IT bölümünde çesitli pozisyonlarda çalıştım. 2012 yılı sonundan beri Almanya'da yaşamaktayım. Mayıs 2020 yılına kadar aktif bir şekilde Sistem ve Ağ Yöneticisi olarak bir firmada çalıştım. Mayıs 2020 den beri çeşitli platformlarda yazılım eğitimi almakta ve bilgilerimi güncellemekteyim. Şuan aktif olarak ASP.NET MVC Core, Java ve Unity alanlarında çalışmaktayım. |
+| <img src="https://bewerbung.co/wp-content/uploads/2018/07/bewerbung-englisch.jpg" width='96'>  | Hello, my name is Fatih Deniz. I graduated from . |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/1200px-Flag_of_Turkey.svg.png" width='96'>  |Merhaba, benim adım Fatih Deniz. 2006 yılında Selçuk Üniversitesi Bilgisayar Teknolojileri ve Programlama bölümünden mezun oldum.|
 | <img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1200px-Flag_of_Germany.svg.png" width='96'>  | Hallo, ich heiße Fatih Deniz. Ich habe 2006 meinen Abschluss in Computertechnologie und Programmierung an der Universität Selcuk gemacht. Bis 2012 war ich in verschiedenen Positionen in der IT-Abteilung vieler Unternehmen in der Türkei tätig. Ich lebe seit Ende 2012 in Deutschland. Ich habe bis Mai 2020 aktiv als System- und Netzwerkadministrator für ein Unternehmen gearbeitet. Seit Mai 2020 bilde ich mich auf verschiedenen Plattformen fort, damit meine Kenntnisse immer auf den neuesten Stand sind. Ich bilde mich derzeit in den Bereichen ASP.NET MVC Core, Java und Unity weiter. |
-
+-->
 
 
 <!--
@@ -58,25 +60,25 @@ Here are some ideas to get you started:
 
 <i>Follow me around the web:</i><br>
 
-  <!-- <a target="_blank" href="https://www.linkedin.com/in/absphreak/">🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​</a> ●
+  <!-- <a target="_blank" href="https://www.linkedin.com/in/rumeysaaydogdu">🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​</a> ●
   <a target="_blank" href="https://www.instagram.com/absphreak/">🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​</a> ●
   <a target="_blank" href="https://www.facebook.com/originalphreak/">🇫​🇦​🇨​🇪​🇧​🇴​🇴​🇰​</a> ●
   <a target="_blank" href="https://open.spotify.com/user/0170agi99s5hh187g7mtz245b">🇸​🇵​🇴​🇹​🇮​🇫​🇾​</a>
   <a target="_blank" href="https://dev.to/ABSphreak">🇸​🇵​🇴​🇹​🇮​🇫​🇾​</a> -->
 
 <a href="https://www.linkedin.com/in/denizfatih" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/fatih_deniz_07" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<!-- <a href="https://www.instagram.com/fatih_deniz_07" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.facebook.com/fdeniz07" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 <!--<a href="https://open.spotify.com/user/0170agi99s5hh187g7mtz245b" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a> -->
 <!--<a href="https://dev.to/ABSphreak" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>-->
 
 **Profile Views**
 
-![Visitor Count](https://profile-counter.glitch.me/{fdeniz07}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{rumeysaaydogdu}/count.svg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fdeniz07&label=Profile%20views&color=0e75b6&style=flat" alt="fdeniz07" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rumeysaaydogdu&label=Profile%20views&color=0e75b6&style=flat" alt="rumeysaaydogdu" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fdeniz07&theme=onedark" alt="fdeniz07" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rumeysaaydogdu&theme=onedark" alt="rumeysaaydogdu" /></a> </p>
 </div>
 
 <!-- [🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​](https://www.linkedin.com/in/absphreak/) ● [🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​](https://www.instagram.com/absphreak/) ● [🇫​🇦​🇨​🇪​🇧​🇴​🇴​🇰​](https://www.facebook.com/originalphreak/) ● [🇸​🇵​🇴​🇹​🇮​🇫​🇾​](https://open.spotify.com/user/0170agi99s5hh187g7mtz245b) -->
