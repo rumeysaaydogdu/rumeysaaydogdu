@@ -83,8 +83,8 @@ Here are some ideas to get you started:
 
 <!-- [🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​](https://www.linkedin.com/in/absphreak/) ● [🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​](https://www.instagram.com/absphreak/) ● [🇫​🇦​🇨​🇪​🇧​🇴​🇴​🇰​](https://www.facebook.com/originalphreak/) ● [🇸​🇵​🇴​🇹​🇮​🇫​🇾​](https://open.spotify.com/user/0170agi99s5hh187g7mtz245b) -->
 
-<a href="https://github.com/fdeniz07"><img align="center" src="https://github-readme-stats.vercel.app/api?username=fdeniz07&show_icons=true&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&icon_color=f1c40f&hide_border=true" /></a>
-<a href="https://github.com/fdeniz07"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fdeniz07&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&hide_border=true&layout=compact&langs_count=10" /></a>
+<a href="https://github.com/rumeysaaydogdu"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rumeysaaydogdu&show_icons=true&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&icon_color=f1c40f&hide_border=true" /></a>
+<a href="https://github.com/rumeysaaydogdu"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rumeysaaydogdu&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&hide_border=true&layout=compact&langs_count=10" /></a>
 
 <br />
 
