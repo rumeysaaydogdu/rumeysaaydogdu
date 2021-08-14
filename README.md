@@ -1,9 +1,9 @@
 ## Rumeysa
 <!--
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/ee/c0/97/eec097ad46de5011264b4a71d7c292f5.gif" width="400" height="220" /> 
-<img align="right" alt="GIF" src="https://media3.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif?cid=790b761123315e403fb9bd1561772ef6dbff969e4d9c0fc0&rid=giphy.gif&ct=g" width="400" -->
-<img align="right" alt="GIF" src="https://media1.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif?cid=790b7611f4ee86e9a912b7c4cb122a7eb7b1c58d2add8961&rid=giphy.gif&ct=g" width="300" height="300" />height="220" />
-
+<img align="right" alt="GIF" src="https://media3.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif?cid=790b761123315e403fb9bd1561772ef6dbff969e4d9c0fc0&rid=giphy.gif&ct=g" width="400" height="220" />
+<img align="right" alt="GIF" src="https://media1.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif?cid=790b7611f4ee86e9a912b7c4cb122a7eb7b1c58d2add8961&rid=giphy.gif&ct=g" width="300" height="300" /> -->
+<img align="right" alt="GIF" src="https://media0.giphy.com/media/46zAJHxw7fh48qXpnP/giphy.gif?cid=790b7611ca131e5c4aae5bb80ee8ec993c9b21231a2ec703&rid=giphy.gif&ct=g" width="300" height="300" />
 
 **About Me**
 ```python
