@@ -1,6 +1,8 @@
 ## Rumeysa
+<!--
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/ee/c0/97/eec097ad46de5011264b4a71d7c292f5.gif" width="400" height="220" /> -->
+<img align="right" alt="GIF" src="https://giphy.com/gifs/mmoire-l3vR85PnGsBwu1PFK/fullscreen" width="400" height="220" />
 
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/ee/c0/97/eec097ad46de5011264b4a71d7c292f5.gif" width="400" height="220" />
 
 **About Me**
 ```python
