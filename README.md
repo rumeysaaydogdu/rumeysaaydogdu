@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 <i>Follow me around the web:</i><br>
 
-   <a target="_blank" href="https://www.linkedin.com/in/rumeysaaydogdu">🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​</a> ●<!--
+  <!-- <a target="_blank" href="https://www.linkedin.com/in/rumeysaaydogdu">🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​</a> ●
   <a target="_blank" href="https://www.instagram.com/fdsffs/">🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​</a> ●
   <a target="_blank" href="https://www.facebook.com/dsfsf/">🇫​🇦​🇨​🇪​🇧​🇴​🇴​🇰​</a> ●
   <a target="_blank" href="https://open.spotify.com/user/fdffs">🇸​🇵​🇴​🇹​🇮​🇫​🇾​</a>
@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rumeysaaydogdu&label=Profile%20views&color=0e75b6&style=flat" alt="rumeysaaydogdu" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rumeysaaydogdu&theme=onedark" alt="rumeysaaydogdu" /></a> </p>
+<!--  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rumeysaaydogdu&theme=onedark" alt="rumeysaaydogdu" /></a> </p>
 </div>
 
 <!-- [🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​](https://www.linkedin.com/in/absphreak/) ● [🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​](https://www.instagram.com/absphreak/) ● [🇫​🇦​🇨​🇪​🇧​🇴​🇴​🇰​](https://www.facebook.com/originalphreak/) ● [🇸​🇵​🇴​🇹​🇮​🇫​🇾​](https://open.spotify.com/user/0170agi99s5hh187g7mtz245b) -->
