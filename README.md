@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 
 **Profile Views**
 
-![Visitor Count](https://profile-counter.glitch.me/{rumeysaaydogdu}/count.svg)
+<p align="center"> ![Visitor Count](https://profile-counter.glitch.me/{rumeysaaydogdu}/count.svg) </p>
 
 <!--  <p align="left"> <img src="https://komarev.com/ghpvc/?username=rumeysaaydogdu&label=Profile%20views&color=0e75b6&style=flat" alt="rumeysaaydogdu" /> </p>
 
