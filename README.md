@@ -57,16 +57,15 @@ Here are some ideas to get you started:
   <a target="_blank" href="https://open.spotify.com/user/fdffs">🇸​🇵​🇴​🇹​🇮​🇫​🇾​</a>
   <a target="_blank" href="https://dev.to/dfdsf">🇸​🇵​🇴​🇹​🇮​🇫​🇾​</a> -->
 
-<a href="https://www.linkedin.com/in/rumeysaaydogdu" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a align="right" href="https://www.linkedin.com/in/rumeysaaydogdu" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <!-- <a href="https://www.instagram.com/fffffff" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.facebook.com/ffffff" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 <!--<a href="https://open.spotify.com/user/fdsfsdfds" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a> -->
 <!--<a href="https://dev.to/dfgeafs" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>-->
 
-<p align="center"> 
 **Profile Views**
 
-![Visitor Count](https://profile-counter.glitch.me/{rumeysaaydogdu}/count.svg) </p>
+![Visitor Count](https://profile-counter.glitch.me/{rumeysaaydogdu}/count.svg)
 
 <!--  <p align="left"> <img src="https://komarev.com/ghpvc/?username=rumeysaaydogdu&label=Profile%20views&color=0e75b6&style=flat" alt="rumeysaaydogdu" /> </p>
 
