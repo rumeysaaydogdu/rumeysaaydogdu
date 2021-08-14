@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="right">
-<i>Follow me around the web:</i><br>
+<i>Follow me around the web:</i>
 
   <!-- <a target="_blank" href="https://www.linkedin.com/in/rumeysaaydogdu">🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​</a> ●
   <a target="_blank" href="https://www.instagram.com/fdsffs/">🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​</a> ●
