@@ -49,6 +49,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love to learn and discover new things
 -->
 
+<p align="right">
 <i>Follow me around the web:</i><br>
 
   <!-- <a target="_blank" href="https://www.linkedin.com/in/rumeysaaydogdu">🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​</a> ●
@@ -56,7 +57,7 @@ Here are some ideas to get you started:
   <a target="_blank" href="https://www.facebook.com/dsfsf/">🇫​🇦​🇨​🇪​🇧​🇴​🇴​🇰​</a> ●
   <a target="_blank" href="https://open.spotify.com/user/fdffs">🇸​🇵​🇴​🇹​🇮​🇫​🇾​</a>
   <a target="_blank" href="https://dev.to/dfdsf">🇸​🇵​🇴​🇹​🇮​🇫​🇾​</a> -->
-<p align="right">
+
 <a href="https://www.linkedin.com/in/rumeysaaydogdu" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> </p>
 <!-- <a href="https://www.instagram.com/fffffff" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.facebook.com/ffffff" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
