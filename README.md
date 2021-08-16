@@ -65,11 +65,12 @@ Here are some ideas to get you started:
 <!--<a href="https://dev.to/dfgeafs" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>-->
 
 **Profile Views**
+<!-- 
+![Visitor Count](https://profile-counter.glitch.me/{rumeysaaydogdu}/count.svg) -->
 
-![Visitor Count](https://profile-counter.glitch.me/{rumeysaaydogdu}/count.svg)
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=rumeysaaydogdu&label=Profile%20views&color=0e75b6&style=flat" alt="rumeysaaydogdu" /> </p> 
 
-<!--  <p align="left"> <img src="https://komarev.com/ghpvc/?username=rumeysaaydogdu&label=Profile%20views&color=0e75b6&style=flat" alt="rumeysaaydogdu" /> </p>
-
+<!-- 
  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rumeysaaydogdu&theme=onedark" alt="rumeysaaydogdu" /></a> </p>
 </div>
 
