@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 <!--<a href="https://open.spotify.com/user/fdsfsdfds" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a> -->
 <!--<a href="https://dev.to/dfgeafs" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>-->
 
-align="right"
+**Profile Views**
 <!-- 
 ![Visitor Count](https://profile-counter.glitch.me/{rumeysaaydogdu}/count.svg) -->
 
