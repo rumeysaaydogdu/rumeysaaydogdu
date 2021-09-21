@@ -6,7 +6,7 @@
 <img align="right" alt="GIF" src="https://media0.giphy.com/media/46zAJHxw7fh48qXpnP/giphy.gif?cid=790b7611ca131e5c4aae5bb80ee8ec993c9b21231a2ec703&rid=giphy.gif&ct=g" width="300" height="300" />
 
 **About Me**
-```
+```python
 Rumeysa = {
   "title": {"Computer Engineering":"Student"},
   "website": "https://rumeysaaydogdu.home.blog/"
@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 <!-- 
 ![Visitor Count](https://profile-counter.glitch.me/{rumeysaaydogdu}/count.svg) -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rumeysaaydogdu&theme=onedark" alt="rumeysaaydogdu" /></a> </p>
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=rumeysaaydogdu&label=Profile%20views&color=0e75b6&style=flat" alt="rumeysaaydogdu" /> </p> 
 
 <!-- 
  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rumeysaaydogdu&theme=onedark" alt="rumeysaaydogdu" /></a> </p>
