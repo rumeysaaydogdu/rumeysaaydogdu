@@ -10,6 +10,7 @@ Rumeysa = {
 }
 ```
 
+<!--
 
 <i>Follow me around the web:</i><br/>
 
@@ -19,8 +20,12 @@ Rumeysa = {
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=rumeysaaydogdu&label=Profile%20views&color=0e75b6&style=flat" alt="rumeysaaydogdu" /> </p> 
 
+-->
+
 
 <a href="https://github.com/rumeysaaydogdu"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rumeysaaydogdu&show_icons=true&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&icon_color=f1c40f&hide_border=true" /></a>
+
+<!--
 <a href="https://github.com/rumeysaaydogdu"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rumeysaaydogdu&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&hide_border=true&layout=compact&langs_count=10" /></a>
 
 <br />
@@ -55,3 +60,4 @@ Rumeysa = {
   <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+-->
